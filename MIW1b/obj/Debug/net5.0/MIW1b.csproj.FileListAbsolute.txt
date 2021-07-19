@@ -1,0 +1,16 @@
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.exe
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.deps.json
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.runtimeconfig.json
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.runtimeconfig.dev.json
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.dll
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\ref\MIW1b.dll
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\bin\Debug\net5.0\MIW1b.pdb
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.csprojAssemblyReference.cache
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.AssemblyInfoInputs.cache
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.AssemblyInfo.cs
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.csproj.CoreCompileInputs.cache
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.dll
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\ref\MIW1b.dll
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.pdb
+C:\Users\jprzy\Desktop\MIW\Programy\MIW1b\MIW1b\obj\Debug\net5.0\MIW1b.genruntimeconfig.cache
